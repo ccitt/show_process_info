@@ -6,3 +6,12 @@ $1: Specify the name of the process
 
 # use example:
 show_process_info.sh mysqld
+
+## Authors
+[@ccitt](https://github.com/ccitt)
+
+## Email
+ccitt@tom.com
+
+## License
+show_process_info is under the Apache 2.0 license. 
